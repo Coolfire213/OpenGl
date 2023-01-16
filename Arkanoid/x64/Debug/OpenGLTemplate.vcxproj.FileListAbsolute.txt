@@ -1,0 +1,10 @@
+D:\repos\OpenGL\Tutorial\OpenGLTemplate\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Tutorial\OpenGLSimpleWindow\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Tutorial\OpenGLTwoTriangles\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Tutorial\OpenGLTwoTrianglesSeparateShaders\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Tutorial\OpenGLIndices\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Tutorial\OpenGLIndicesSetColorwithOpenGL\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Tutorial\OpenGLTransfromations\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Tutorial\Midterm\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Midterm\Midterm\x64\Debug\OpenGLTemplate.exe
+D:\repos\OpenGL\Midterm\Arkanoid\x64\Debug\OpenGLTemplate.exe

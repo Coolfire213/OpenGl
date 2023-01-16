@@ -1,0 +1,3 @@
+﻿  OpenGLTemplate.cpp
+D:\repos\OpenGL\Midterm\Arkanoid\shaderinit.h(56,40): warning C4101: 'e': unreferenced local variable
+  OpenGLTemplate.vcxproj -> D:\repos\OpenGL\Midterm\Arkanoid\x64\Debug\OpenGLTemplate.exe
